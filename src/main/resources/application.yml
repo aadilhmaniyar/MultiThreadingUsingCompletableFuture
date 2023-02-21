@@ -1,0 +1,7 @@
+Spring:
+  h2:
+    console:
+      enable: true
+
+server:
+  port: 9191
